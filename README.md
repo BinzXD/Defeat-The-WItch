@@ -1,9 +1,7 @@
-# 2D-platformer-Game-Unity
-2D Tilemap Platformer Unity
-Create your own 2D platformer game with ease using this Unity project template. This repository provides a foundation for building classic side-scrolling platformers with Unity's powerful 2D features.
-
+# Defeat The Witch
+A 2d game with adventure and rpg themes. you are asked to complete each level until the last will fight a witch. I made this game to fulfill the final project of the game programming course. 
 ## Features:
-Tilemap Integration: Leverage Unity's Tilemap system for efficient level design and quick iteration.
+
 
 Player Controller: A customizable player controller script with smooth movement and double jump movement.
 
@@ -15,7 +13,13 @@ Player Death and Respawning: Respawn and death system.
 
 Platformer Mechanics: Jumping, double-jumping, and grounded movement are all set up for a classic platformer feel.
 
-Coins and Pickups: Coins and Pickups to make gameplay feel fun.
+Mana and Pickups: Mana and Pickups to make gameplay feel fun.
+
+## Contributor
+* BinzXD
+* ApriliantoPutra
+* Neli
+* Zalfa
 
 ## Getting Started:
 Clone the repository.
@@ -24,12 +28,6 @@ Explore the sample scenes and adapt them to fit your game concept.
 Customize player sprites, tilesets, and level design to create your unique platformer experience.
 Documentation:
 Refer to the Wiki for detailed documentation and guidelines on using the template, implementing new features, and optimizing your game.
-
-## Contributions:
-Contributions are welcome! Whether you want to fix bugs, improve existing features, or add new functionality, feel free to fork the repository and submit pull requests.
-
-## License:
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ![Screenshot (1513)](https://github.com/BinzXD/Defeat-The-WItch/blob/main/Assets/Baground/New%20folder/Screenshot%202024-06-25%20015809.png)
 
